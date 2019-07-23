@@ -1,3 +1,3 @@
-a,b=map(int,input().split())
-z=pow(a,b)
-print(z)
+x,y=map(int,input().split())
+a=pow(x,y)
+print(a)
